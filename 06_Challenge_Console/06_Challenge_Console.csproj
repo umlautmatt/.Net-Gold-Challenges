@@ -54,7 +54,7 @@
     <Content Include="Prompt.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\01_Challenge_Console\01_Challenge_Console\01_Challenge_Console.csproj">
+    <ProjectReference Include="..\01_Challenge_Console\01_Challenge_Console.csproj">
       <Project>{1194DBF5-665E-4E23-8EAA-05C46AEF0CC3}</Project>
       <Name>01_Challenge_Console</Name>
     </ProjectReference>

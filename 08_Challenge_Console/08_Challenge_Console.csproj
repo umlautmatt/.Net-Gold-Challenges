@@ -53,7 +53,7 @@
     <Content Include="Prompt.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\08_Challenge_Repository\08_Challenge_Repository.csproj">
+    <ProjectReference Include="..\08_Challenge_Repository\08_Challenge_Repository.csproj">
       <Project>{9fcf6d01-8dcd-4745-878a-166e62206ab3}</Project>
       <Name>08_Challenge_Repository</Name>
     </ProjectReference>
